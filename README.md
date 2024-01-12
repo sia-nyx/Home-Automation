@@ -28,3 +28,6 @@
 
 <img width="1280" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/172211087-4463947a-846e-4316-ae7e-c3cc9e36e3a7.png">
 
+<h2>Description:</h2>
+
+The Home Automation Project utilizes various components to create an intelligent home system. The Arduino, acting as the brain, controls functions, while the LCD Display provides real-time information. Sensory devices like the Smoke Detector, Temperature Sensor, PhotoSensor, and PIR Sensor monitor environmental conditions. The project aims to demonstrate enhanced security, environmental monitoring, and efficient lighting control through the Simulation Diagram.
